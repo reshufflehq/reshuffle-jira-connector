@@ -8,7 +8,7 @@ This connector uses [Node Jira Client](https://github.com/jira-node/node-jira-cl
 
 ### Reshuffle Jira Connector
 
-This connector provides a connector for [Atlassian Jira](https://www.atlassian.com/software/jira).
+This package provides a [Reshuffle](https://github.com/reshufflehq/reshuffle) connector for [Atlassian Jira](https://www.atlassian.com/software/jira).
 
 The following example listen to jira issue updates:
 ```js
